@@ -37,39 +37,12 @@ while is_race_on:
 
 
 
-"""
-tim = Turtle(shape="turtle")
-tim.color("blue")
-tim.penup()
-tim.goto(x=-230, y=-100)
 
-timmy = Turtle(shape="turtle")
-timmy.color("red")
-timmy.penup()
-timmy.goto(x=-230, y=-70)
-
-benny = Turtle(shape="turtle")
-benny.color("green")
-benny.penup()
-benny.goto(x=-230, y=-40)
-
-cimmy = Turtle(shape="turtle")
-cimmy.color("yellow")
-cimmy.penup()
-cimmy.goto(x=-230, y=-10)
-
-gorge = Turtle(shape="turtle")
-gorge.color("orange")
-gorge.penup()
-gorge.goto(x=-230, y=20)
-
-adam = Turtle(shape="turtle")
-adam.color("purple")
-adam.penup()
-adam.goto(x=-230, y=50)
-"""
 
 
 
 
 screen.exitonclick()
+
+
+#100daysofcode/udemy
